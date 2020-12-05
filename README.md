@@ -30,3 +30,9 @@ script [create-participant-dataset.mjs](scripts/create-participant-dataset.mjs) 
 1. [etc/engagement-report-schema.mjs](etc/engagement-report-schema.mjs)
 2. [etc/participant-recs-schema.mjs](etc/participant-recs-schema.mjs)
 3. [etc/question-defs.mjs](etc/question-defs.mjs)
+
+## Requirements
+
+We are using es6 modules (Node version >= 13.2.0).
+
+See [Announcing core Node.js support for ECMAScript modules](https://medium.com/@nodejs/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663).
